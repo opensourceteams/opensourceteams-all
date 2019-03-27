@@ -56,3 +56,9 @@
 
 
 
+## 网页截图工具
+- 可以截取整个网页的内容为图片
+- google 浏览器插件: Full Page Screen Capture 4.9
+                
+
+
