@@ -51,5 +51,8 @@
 ## logback maven 日志使用
 - https://github.com/opensourceteams/logback-maven-project
 
+## videojs web 在线 播放带字幕的语音，视频文件
+- https://github.com/opensourceteams/video-js-7.5.2
+
 
 
